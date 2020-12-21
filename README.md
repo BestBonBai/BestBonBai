@@ -8,8 +8,8 @@
 - 🎓  I'm a Computer Science student at Concordia University. 
 - 👨🏻‍💻  I love coding awesome projects. 
 - :octocat:-ing using: 
-    + ![](https://img.shields.io/badge/Windows-10-%23999999.svg?&style=flat&logo=windows&logoColor=white)
-    + ![](https://img.shields.io/badge/Apple-Macbook%20pro%20-%23999999.svg?&style=flat&logo=apple&logoColor=white)
+    + ![](https://img.shields.io/badge/Windows-10-23999999.svg?&style=flat&logo=win10&logoColor=white)
+    + ![](https://img.shields.io/badge/Apple-Macbook%20pro%20-23999999.svg?&style=flat&logo=apple&logoColor=white)
     + ![](https://img.shields.io/badge/Linux-Ubuntu-orange?style=flat&logo=Ubuntu) 
 
 ![BestBonBai's github stats](https://github-readme-stats.vercel.app/api?username=BestBonBai&show_icons=true&theme=tokyonight&count_private=true)
