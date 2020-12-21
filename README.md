@@ -21,7 +21,7 @@
      [![](https://img.shields.io/badge/JavaScript-success.svg?style=plastic&logo=JavaScript)](https://shields.io/)
      [![](https://img.shields.io/badge/MySQL-success.svg?style=plastic&logo=MySQL)](https://shields.io/)
      [![](https://img.shields.io/badge/PHP-7-success.svg?style=plastic&logo=PHP)](https://shields.io/)
-     [![](https://img.shields.io/badge/Python-7-success.svg?style=plastic&logo=Python)](https://shields.io/)
+     [![](https://img.shields.io/badge/Python-3.6+-success.svg?style=plastic&logo=Python)](https://shields.io/)
     + :whale:
      [![](https://img.shields.io/badge/IntelliJ_IDEA-important.svg?style=plastic&logo=IntelliJ-IDEA)](https://shields.io/)
      [![](https://img.shields.io/badge/Visual_Studio-blueviolet.svg?style=plastic&logo=Visual-Studio)](https://shields.io/)
