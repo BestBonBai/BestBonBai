@@ -10,7 +10,7 @@
 - 👨🏻‍💻  I love coding awesome projects. 
 - :octocat: Operating System: 
     + [![](https://img.shields.io/badge/Windows-10-blue.svg?style=plastic&logo=windows)](https://shields.io/)
-    + [![](https://img.shields.io/badge/Apple-Macbook_pro-white.svg?style=plastic&logo=apple)](https://shields.io/)
+    + [![](https://img.shields.io/badge/Apple-macOS-white.svg?style=plastic&logo=apple)](https://shields.io/)
     + [![](https://img.shields.io/badge/Linux-Ubuntu-orange.svg?style=plastic&logo=Ubuntu)](https://shields.io/)
 - :octocat:Techonology & Tools: 
     + :point_right:
