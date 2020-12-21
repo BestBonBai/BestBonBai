@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there :wave:,  </h1>
+<h1 align="center"> Hi there :wave:, </h1>
 
 <p align="center">
 <a href="https://BestBonBai.github.io"><img src="https://img.shields.io/badge/Portfolio-BestBonBai-informational" alt="portfolio: https://BestBonBai.github.io"></a>
