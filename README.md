@@ -8,13 +8,28 @@
 - :man_technologist: My name is Hualin Bai.
 - 🎓  I'm a Computer Science student at Concordia University. 
 - 👨🏻‍💻  I love coding awesome projects. 
-- :octocat:Tools: 
-    + ![](https://img.shields.io/badge/Windows-%510%5-%23999999.svg?&style=flat&logo=win&logoColor=white)
-    + ![](https://img.shields.io/badge/Apple-Macbook%20pro%202020-%23999999.svg?&style=flat&logo=apple&logoColor=white)
-    + ![](https://img.shields.io/badge/Linux-Kubuntu-orange?style=flat&logo=Ubuntu) 
+- :octocat: Operating System: 
+    + [![](https://img.shields.io/badge/Windows-10-blue.svg?style=plastic&logo=windows)](https://shields.io/)
+    + [![](https://img.shields.io/badge/Apple-Macbook_pro-white.svg?style=plastic&logo=apple)](https://shields.io/)
+    + [![](https://img.shields.io/badge/Linux-Ubuntu-orange.svg?style=plastic&logo=Ubuntu)](https://shields.io/)
+- :octocat:Techonology & Tools: 
+    + :point_right:
+     [![](https://img.shields.io/badge/Java-8-success.svg?style=plastic&logo=Java)](https://shields.io/)
+     [![](https://img.shields.io/badge/C++-11+-success.svg?style=plastic&logo=C)](https://shields.io/)
+     [![](https://img.shields.io/badge/HTML-5-success.svg?style=plastic&logo=HTML5)](https://shields.io/)
+     [![](https://img.shields.io/badge/CSS-success.svg?style=plastic&logo=CSS3)](https://shields.io/)
+     [![](https://img.shields.io/badge/JavaScript-success.svg?style=plastic&logo=JavaScript)](https://shields.io/)
+     [![](https://img.shields.io/badge/MySQL-success.svg?style=plastic&logo=MySQL)](https://shields.io/)
+     [![](https://img.shields.io/badge/PHP-7-success.svg?style=plastic&logo=PHP)](https://shields.io/)
+     [![](https://img.shields.io/badge/Python-7-success.svg?style=plastic&logo=Python)](https://shields.io/)
+    + :whale:
+     [![](https://img.shields.io/badge/IntelliJ_IDEA-important.svg?style=plastic&logo=IntelliJ-IDEA)](https://shields.io/)
+     [![](https://img.shields.io/badge/Visual_Studio-blueviolet.svg?style=plastic&logo=Visual-Studio)](https://shields.io/)
+     [![](https://img.shields.io/badge/Visual_Studio_Code-blue.svg?style=plastic&logo=Visual-Studio-Code)](https://shields.io/)
+     [![](https://img.shields.io/badge/PyCharm-success.svg?style=plastic&logo=PyCharm)](https://shields.io/)
+     [![](https://img.shields.io/badge/PhpStorm-orange.svg?style=plastic&logo=PhpStorm)](https://shields.io/)
 
+ 
 ![BestBonBai's github stats](https://github-readme-stats.vercel.app/api?username=BestBonBai&show_icons=true&theme=tokyonight&count_private=true)
-
-![BestBonBai's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BestBonBai&theme=blue-green)
 
 
