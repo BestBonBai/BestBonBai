@@ -19,7 +19,7 @@
      [![](https://img.shields.io/badge/HTML-5-success.svg?style=plastic&logo=HTML5)](https://shields.io/)
      [![](https://img.shields.io/badge/CSS-success.svg?style=plastic&logo=CSS3)](https://shields.io/)
      [![](https://img.shields.io/badge/JavaScript-success.svg?style=plastic&logo=JavaScript)](https://shields.io/)
-     [![](https://img.shields.io/badge/MySQL-success.svg?style=plastic&logo=MySQL)](https://shields.io/)
+     [![](https://img.shields.io/badge/MySQL-white.svg?style=plastic&logo=MySQL)](https://shields.io/)
      [![](https://img.shields.io/badge/PHP-7-success.svg?style=plastic&logo=PHP)](https://shields.io/)
      [![](https://img.shields.io/badge/Python-3.6+-success.svg?style=plastic&logo=Python)](https://shields.io/)
     + :whale:
