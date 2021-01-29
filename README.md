@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋🏼, </h1>
 
 <p align="center">
-<a href="https://BestBonBai.github.io"><img src="https://img.shields.io/badge/Portfolio-BestBonBai-informational" alt="portfolio: https://bestbonbai.me"></a>
+<a href="https://bestbonbai.me"><img src="https://img.shields.io/badge/Portfolio-BestBonBai-informational" alt="portfolio: https://bestbonbai.me"></a>
 <a href="https://www.linkedin.com/in/hualin-bai-841759103/"><img src="https://img.shields.io/badge/-Best_Bai-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin:https://www.linkedin.com/in/hualin-bai-841759103/"></a>
 </p>
 
