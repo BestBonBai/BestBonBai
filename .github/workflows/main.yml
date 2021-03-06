@@ -26,7 +26,8 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.additional.svg
+          template: terminal
+          filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -44,29 +45,4 @@ jobs:
           config_timezone: Canada/Montreal
           config_order: languages, pagespeed, habits, stargazers, stars
 
-      - name: 🦑 Personal metrics (anilist)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.personal.anilist.svg
-          token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-
-      - name: 🦑 Personal projects
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.projects.svg
-          token: ${{ secrets.METRICS_TOKEN }} # ⚠️ This it not the same token, this one has "public_repo" scope
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: lowlighter
-          base: ""
-          plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
-          plugin_projects_descriptions: yes
-          plugin_projects_limit: 0    
+     
