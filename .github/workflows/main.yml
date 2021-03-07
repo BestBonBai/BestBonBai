@@ -30,6 +30,9 @@ jobs:
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: bestbonbai
+          base: header, repositories
+          config_timezone: Canada/Montreal
          
           
       - name: 🦑 Personal metrics (language)
