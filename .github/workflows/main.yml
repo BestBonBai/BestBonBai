@@ -37,7 +37,7 @@ jobs:
           plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
           plugin_pagespeed_url: .user.website                    # Website to audit (defaults to your GitHub linked website)
           
-          config_order: base.header, isocalendar, base.repositories, topics, language, pagespeed
+          config_order: base.header, isocalendar, base.repositories, topics, language
           
       - name: 🦑 Personal metrics (additional)
         if: ${{ success() || failure() }}
