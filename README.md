@@ -31,9 +31,6 @@
 
 ![Metrics](https://github.com/bestbonbai/bestbonbai/blob/main/metrics.terminal.svg)
 
-![BestBonBai's github stats](https://github-readme-stats.vercel.app/api?username=BestBonBai&show_icons=true&theme=tokyonight&count_private=true)
-
-
 ![Metrics](https://github.com/bestbonbai/bestbonbai/blob/main/metrics.svg)
 
 
