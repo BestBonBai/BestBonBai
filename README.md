@@ -6,7 +6,7 @@
 </p>
 
 - :man_technologist: My name is Hualin Bai.
-- 🎓  I'm a Computer Science student at Concordia University. 
+- 🎓  I graduated from Concordia University. 
 - 👨🏻‍💻  I love coding awesome projects. 
 - :octocat: Operating System: 
     + ![](https://img.shields.io/badge/Windows-10-blue.svg?style=plastic&logo=windows)
